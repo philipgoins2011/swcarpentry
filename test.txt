@@ -1,0 +1,7 @@
+**shell
+*ls
+*cat
+
+**git
+*init
+*add files
