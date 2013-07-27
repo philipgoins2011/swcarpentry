@@ -1,6 +1,8 @@
 Things we are learning at SWC
 =============================
 
+DEY TOOK ARE JERBS
+
 * shell
 ** ls
 ** cat
