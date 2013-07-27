@@ -1,5 +1,6 @@
 Things we are learning at SWC
 =============================
+City of birth: City of Angels, As Lonely as I am...
 
 * shell
 ** ls
