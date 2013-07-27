@@ -5,3 +5,5 @@
 **git
 *init
 *add files
+*commit  messages
+*atomic commits
