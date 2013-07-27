@@ -9,8 +9,8 @@ Things we are learning at SWC
 ** touch
 
 * git
-** Initialize git repos.
-** Add files to git repos.
+** Initialize git repositories.
+** Add files to git repositories.
 ** Commit messages.
 ** Atomic commits.
 ** Removing files
